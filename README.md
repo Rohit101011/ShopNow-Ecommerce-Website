@@ -1,2 +1,0 @@
-# ShopNow Ecommerce Website
- 
